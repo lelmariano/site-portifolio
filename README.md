@@ -4,8 +4,7 @@ Neste curso você vai dominar todo o **Git** e **GitHub** _do zero ao profission
 
 ## Módulos
 _Entendendo o que **Git**, Aprendendo sobre **repositórios**, Trabalhando com **branches**_
-[Apartamento zona sul][def]
+![Apartamento zona sul][C:\Users\User\Desktop\CURSOS\SOFTWAREs\GIT\Portifolio\Imagens/fachada]
 
 
 
-[def]: C:\Users\User\Desktop\CURSOS\SOFTWAREs\GIT\Portifolio\Imagens/fachada
