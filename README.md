@@ -15,3 +15,7 @@ Neste curso você vai dominar todo o **Git** e **GitHub** _do zero ao profission
 2. Aprendendo sobre branches.
 3. GIT avançado.
 4. Usando GitHub de forma profissional.
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+> Segunda área destacada
