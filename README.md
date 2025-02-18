@@ -29,7 +29,7 @@ Neste curso você vai dominar todo o **Git** e **GitHub** _do zero ao profission
 **Comando para rodar o projeto**
 
 ```
-###npm start
+### npm start
 ```
 
 **Exemplo de uso do script**
