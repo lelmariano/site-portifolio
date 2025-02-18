@@ -12,6 +12,8 @@ Neste curso você vai dominar todo o **Git** e **GitHub** _do zero ao profission
 * GIT avançado.
 * Usando GitHub de forma profissional.
 
+### **_Conteúdo_**
+
 1. Començando com GIT?
 
                 1. O que é GIT.
@@ -29,7 +31,7 @@ Neste curso você vai dominar todo o **Git** e **GitHub** _do zero ao profission
 **Comando para rodar o projeto**
 
 ```
-### npm start
+npm start
 ```
 
 **Exemplo de uso do script**
